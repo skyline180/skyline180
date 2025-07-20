@@ -69,8 +69,9 @@
 
 <h3 align="left">🔥 My Stats</h3>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skyline360" alt="GitHub Streak" />
-</div>
+
+  ![skyline180's Stats](https://github-readme-stats.vercel.app/api?username=skyline180&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+  ![skyline180's Streak](https://github-readme-streak-stats.herokuapp.com/?user=skyline180&theme=tokyonight&hide_border=true)
+  ![skyline180's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skyline180&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ###
