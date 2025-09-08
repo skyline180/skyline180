@@ -11,7 +11,7 @@
     <a href="https://www.youtube.com/channel/s-akash" target="_blank">
         <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo" />
     </a>
-    <a href="https://twitter.com/shahat.akash" target="_blank">
+    <a href="https://twitter.com/Shahat_Akash" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
     </a>
 </div>
